@@ -5,8 +5,4 @@ lua ircbot.lua irc.NETWORK-NAME-HERE.org BOTNICK channel
 This is because "#" would need to be escaped in the shell,
 eg "\#", making an ugly command line interface.
 
-TODO:
- - Allow dynamic cli args, eg "--network, --channel" etc
- - Continued implementation of useful network functions
-
-Contact: dshaw.jobs@gmail.com
+Erinnerungsbot für den amazonfreien Mittowch
